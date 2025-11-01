@@ -36,7 +36,6 @@ mv ~/.config/nvim.backup ~/.config/nvim
 git clone https://github.com/rida-hdj/nvim.git ~/.config/nvim
 ```
 
-> Replace `USERNAME` and `REPO_NAME` with your GitHub username and repository name.
 
 ### 2. Launch Neovim
 
