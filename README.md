@@ -8,7 +8,7 @@ A powerful and customizable Neovim setup designed for **web development** (HTML,
 
 * **Neovim 0.11 or higher**
 * **Git** installed
-* Internet connection to download plugins via `lazy.nvim` or your preferred plugin manager.
+* Internet connection to download plugins via `lazy.nvim` .
 
 ---
 
