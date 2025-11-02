@@ -1,4 +1,5 @@
 # 🌌 My Neovim Configuration
+<img width="1280" height="851" alt="Screenshot_20251102_142030" src="https://github.com/user-attachments/assets/200ebc08-e73d-41e6-962a-d750261058bd" />
 
 A powerful and customizable Neovim setup designed for **web development** (HTML, CSS, JS), **systems programming** (C, C++, Rust), and more. Optimized for productivity, aesthetics, and comfort.
 
